@@ -1,5 +1,4 @@
 import React from 'react';
-import {PaperClipIcon} from '@heroicons/react/solid'
 import {useSelector} from 'react-redux';
 
 const Profile=() => {
